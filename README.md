@@ -1,5 +1,4 @@
 # patika-dev-clone-odev
-``
 Alanımdan bağımsız bir işte çalıştığım için bitirmeye vaktim olmadı.
 ```
 Hakkimizda ve index sayfası olarak hazırladım.
